@@ -1,0 +1,3 @@
+<tab>Tab with a long name
+<tab>Tab 2
+<tab>Another Tab
